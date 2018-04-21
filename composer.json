@@ -1,0 +1,10 @@
+{
+    "require": {
+        "irazasyed/telegram-bot-sdk": "^3.0",
+        "colshrapnel/safemysql": "^1.0",
+        "nette/robot-loader": "^3.0",
+        "hazardland/debug": "^1.0",
+        "vlucas/phpdotenv": "^2.4",
+        "o80/i18n": "~0.2"
+    }
+}

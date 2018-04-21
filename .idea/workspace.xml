@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7f4b84e-987c-472b-9219-07d6e26e4165" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bot.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bositkhon-bot/bot.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomKeyboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bositkhon-bot/helpers/CustomKeyboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="en.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bositkhon-bot/langs/en.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ru.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bositkhon-bot/langs/ru.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uz.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bositkhon-bot/langs/uz.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emoji.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/irazasyed/telegram-bot-sdk/src/Storage/emoji.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28270">
+              <caret line="1285" column="1" selection-start-line="1285" selection-start-column="1" selection-end-line="1285" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Custom.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bositkhon-bot/helpers/Custom.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font-size</find>
+      <find>echo</find>
+      <find>PhpMessa</find>
+      <find>PhpMessageSource</find>
+      <find>file</find>
+      <find>unable to l</find>
+      <find>loadMes</find>
+      <find>unable</find>
+      <find>t(</find>
+      <find>12</find>
+      <find>filemap</find>
+      <find>incl</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/vendor/colshrapnel/safemysql/safemysql.class.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/config/db.php" />
+        <option value="$PROJECT_DIR$/configs/functions.php" />
+        <option value="$PROJECT_DIR$/vendor/hazardland/debug/debug.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/.gitignore" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/helpers/DbHelper.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/.env" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/locale/en_US/main.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/locale/uz_UZ/main.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/languages/app/en_US.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/languages/app/en_US/main.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/languages/en_US/app/main.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/en_us/app.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/languages/en_us/app.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/languages/common/common.php" />
+        <option value="$PROJECT_DIR$/vendor/pinguo/php-i18n/src/I18N.php" />
+        <option value="$PROJECT_DIR$/vendor/pinguo/php-i18n/src/PhpMessageSource.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/languages/en_us/common.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/helpers/Custom.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/langs/common.json" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/langs/uz.json" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/langs/ru.json" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/langs/en.json" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/helpers/Keyboard.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/helpers/CustomKeyboard.php" />
+        <option value="$PROJECT_DIR$/bositkhon-bot/bot.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/colshrapnel/safemysql" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/hazardland/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/nette/robot-loader" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/nette/finder" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/irazasyed/telegram-bot-sdk" />
+      <path value="$PROJECT_DIR$/vendor/league/event" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/o80/i18n" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bsm.alphazet.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bsm.alphazet.local" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\bsm.alphazet.local\bositkhon-bot\languages\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7f4b84e-987c-472b-9219-07d6e26e4165" name="Default" comment="" />
+      <created>1523819552507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523819552507</updated>
+      <workItem from="1523819554709" duration="1869000" />
+      <workItem from="1523859752976" duration="13347000" />
+      <workItem from="1523986351570" duration="660000" />
+      <workItem from="1523990057136" duration="4345000" />
+      <workItem from="1524328277803" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.32946146" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49947917" visible="true" weight="0.32946146" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/pinguo/php-i18n/src/PhpMessageSource.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/pinguo/php-i18n/src/I18N.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="72" column="33" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/languages/en_us/common.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/pinguo/php-i18n/src/PhpMessageSource.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/pinguo/php-i18n/src/I18N.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/hazardland/debug/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9438">
+          <caret line="449" column="2" lean-forward="true" selection-start-line="449" selection-start-column="2" selection-end-line="449" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/colshrapnel/safemysql/safemysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="88" column="58" selection-start-line="79" selection-start-column="9" selection-end-line="88" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/config/db.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/helpers/DbHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/configs/functions.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/irazasyed/telegram-bot-sdk/src/FileUpload/InputFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/hazardland/debug/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1442">
+          <caret line="449" column="2" selection-start-line="449" selection-start-column="2" selection-end-line="449" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/config/db.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Dotenv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/helpers/DbHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/colshrapnel/safemysql/safemysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="792" column="9" selection-start-line="792" selection-start-column="9" selection-end-line="792" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/userfrosting/i18n/src/MessageTranslator.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/locale/uz_UZ/main.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="258" column="6" selection-start-line="258" selection-start-column="6" selection-end-line="258" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/paquettg/i18n/src/I18n/Exception/LocaleNotFoundException.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/paquettg/i18n/src/I18n/LocaleCollection.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/paquettg/i18n/src/I18n/I18n.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/locale/en_US/en_US.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/languages/app/en_US.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/languages/app/en_US/main.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/languages/en_us/app/app.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/pinguo/php-i18n/src/MessageSource.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/en_us/app.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/languages/en_us/app.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/pinguo/php-i18n/src/PhpMessageSource.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/pinguo/php-i18n/src/I18N.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/languages/common/common.php" />
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/languages/en_us/common.php" />
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/helpers/Custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/irazasyed/telegram-bot-sdk/src/Helpers/Emojify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="103" column="27" selection-start-line="103" selection-start-column="27" selection-end-line="103" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/langs/common.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/langs/uz.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/langs/ru.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/langs/en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/illuminate/support/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1229">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/irazasyed/telegram-bot-sdk/src/Keyboard/Keyboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/irazasyed/telegram-bot-sdk/src/Storage/emoji.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28270">
+          <caret line="1285" column="1" selection-start-line="1285" selection-start-column="1" selection-end-line="1285" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/helpers/CustomKeyboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bositkhon-bot/bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
