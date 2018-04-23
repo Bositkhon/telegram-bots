@@ -31,13 +31,13 @@ $i18n->setDefaultLang('en');
 $telegram = new \Telegram\Bot\Api( getenv(BOT_TOKEN) );
 
 try{
-    $updates = $telegram->getUpdates();
-//    $update = $telegram->getWebhookUpdate();
+//    $updates = $telegram->getUpdates();
+    $update = $telegram->getWebhookUpdate();
 }catch (Exception $e){
     error_log($e->getMessage());
 }
 
-$update = array_pop($updates);
+//$update = array_pop($updates);
 $msg = null;
 
 if($update->getMessage() != null){
@@ -59,6 +59,7 @@ if($msg != null){
     ]);
 }
 
+error_log('asdasd');
 
 
 ?>
