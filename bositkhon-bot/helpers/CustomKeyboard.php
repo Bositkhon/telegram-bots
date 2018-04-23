@@ -11,8 +11,9 @@ class CustomKeyboard extends \Telegram\Bot\Keyboard\Keyboard
     public static function languageKeyboard(){
         $buttons = array();
         $layout = array();
-        array_push($buttons, self::button(['text' => 'lang1']));
-        array_push($buttons, self::button(['text' => 'lang2']));
+        array_push($buttons, self::button(['text' => \Telegram\Bot\Helpers\Emojify::text(':uz: O\'zbek tili :uz:')]));
+        array_push($buttons, self::button(['text' => \Telegram\Bot\Helpers\Emojify::text(':ru: Русский язык :ru:')]));
+        array_push($buttons, self::button(['text' => \Telegram\Bot\Helpers\Emojify::text(':us: English :us:')]));
         array_push($layout, $buttons);
         $keyboard = self::make([
             'keyboard' => $layout,

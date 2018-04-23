@@ -1,3 +1,5 @@
 {
-  "Добро пожаловать": "Добро пожаловать! Хуш келибсиз! Welcome"
+  "common":{
+    "Welcome new user": ":uz: Assalomu Alaykum, *%s*! Tilni tanlang\n:ru: Здравствуйте, *%s*! Выберите язык\n:us: Welcome, *%s*! Choose language"
+  }
 }
