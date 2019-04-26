@@ -47,6 +47,7 @@ if($update->getMessage() != null){
 }
 
 if($msg != null){
+    
     $user = $msg->getFrom();
     $chat = $msg->getChat();
 
