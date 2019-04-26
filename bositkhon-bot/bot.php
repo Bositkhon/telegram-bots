@@ -47,7 +47,6 @@ if($update->getMessage() != null){
 }
 
 if($msg != null){
-    
     $user = $msg->getFrom();
     $chat = $msg->getChat();
 
@@ -59,8 +58,6 @@ if($msg != null){
         'reply_markup' => CustomKeyboard::languageKeyboard(),
     ]);
 }
-
-error_log('asdasd');
 
 
 ?>
